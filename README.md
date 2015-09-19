@@ -1,0 +1,2 @@
+# gitkiller
+git clone
